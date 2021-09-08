@@ -1,6 +1,5 @@
 ---
 title: 节点
-content_type: concept
 weight: 10
 ---
 Kubernetes 通过将容器放入在节点（Node）上运行的 Pod 中来执行你的工作负载。
